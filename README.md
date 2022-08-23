@@ -1,7 +1,7 @@
 # Tomato
 simple but effective app to apply Pomodoro Technique in your study periods.
 
-#Features
+# Features
 1-manage study and breaks times in minutes. <br >
 2-report of time spent on study and breaks <br >
 3-amange alert preference <br >
